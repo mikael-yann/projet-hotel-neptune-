@@ -54,10 +54,9 @@ header a {
 }
 
 
-header {background-color: rgb(56, 145, 246);
+header {
   display: flex;
   color: black;
-  border: 10px solid rgb(56, 145, 246);
   margin-left: 0%;
   border-radius: 1em;
   width: 80%;
@@ -101,7 +100,6 @@ nav {
   font: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    background-color: rgb(56, 145, 246);
     border-radius: 1em;
     padding: .5em;
     top: 0%;
@@ -141,20 +139,16 @@ grid-template-columns: 4fr 1fr;
 
 main {
   box-sizing: border-box;
-  background-color: rgb(56, 145, 246);
   color: black;
-  border: 10px solid rgb(56, 145, 246);
   border-radius: 1em;
   padding : 1em;
   margin-right: 1%;
   }
 
-/******************************* FOOTER ********************************/
+/******************************** FOOTER ********************************/
 
 footer {
-  background-color: rgb(56, 145, 246);
   color: black;
-  border: 1px solid rgb(56, 145, 246);
   border-radius: 1em;
   padding : 1%;
   margin-top: 1%;
